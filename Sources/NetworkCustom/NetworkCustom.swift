@@ -1,0 +1,6 @@
+public struct NetworkCustom {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
+}
